@@ -1,7 +1,7 @@
 ### Authors
-Stephen Ling  (jling9@wisc.edu)
-Wyatt Meng    (jmeng36@wisc.edu)
-Bryce Chen    (ychen2229@wisc.edu)
+- Stephen Ling  (jling9@wisc.edu)
+- Wyatt Meng    (jmeng36@wisc.edu)
+- Bryce Chen    (ychen2229@wisc.edu)
 
 
 ### Introductions
